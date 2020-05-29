@@ -48,9 +48,8 @@ export default App;
 
 - [x] 유용한 링크 소개 : 알아두면 좋은 뉴스레터, 추천하는 도서, 사이트들을 소개합니다.
 - [x] 개발 환경 설정 : Git 설치, VS Code 및 확장기능 설치, 브라우저의 개발자 도구 사용방법, 기초 HTML 태그 사용방법을 다룹니다.
-- [ ] Git과 GitHub : 파일 버전 관리 시스템을 사용해야 하는 이유, Git의 기능(push, pull, branch, stash 등)과 GitHub의 기능을 알아봅니다.
-- [ ] HTML/CSS/JS : 웹 페이지를 만드는 이 3가지 구성요소에 대해 더 심도깊게 다룹니다.
-- [ ] 정적인 페이지 만들기(Jekyll, HTML/CSS/JS)
+- [x] Git과 GitHub : 파일 버전 관리 시스템을 사용해야 하는 이유, Git의 기능(push, pull, branch, stash 등)과 GitHub의 기능을 알아봅니다.
+- [x] HTML/CSS/JS : 웹 페이지를 만드는 이 3가지 구성요소에 대해 더 심도깊게 다룹니다.
 - [ ] Node.js와 패키지 매니저
 - [ ] 최신 라이브러리 사용해보기(React)
 - [ ] 예쁘고 편하게 짜보기(Sass, CSS-in-JS)
